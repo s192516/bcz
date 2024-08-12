@@ -1,0 +1,15 @@
+__pycache__
+.vscode
+xlsx
+build
+dist
+*.json
+*.db
+*.xlsx
+*.sql
+*.bak
+*.ipynb
+
+
+
+
